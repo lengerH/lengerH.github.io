@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lengerH.github.io</id>
     <title>Gridea</title>
-    <updated>2020-01-11T15:06:30.506Z</updated>
+    <updated>2020-01-11T15:15:52.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lengerH.github.io"/>
     <link rel="self" href="https://lengerH.github.io/atom.xml"/>
@@ -10,6 +10,61 @@
     <logo>https://lengerH.github.io/images/avatar.png</logo>
     <icon>https://lengerH.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[寒假计划]]></title>
+        <id>https://lengerH.github.io/post/han-jia-ji-hua</id>
+        <link href="https://lengerH.github.io/post/han-jia-ji-hua">
+        </link>
+        <updated>2020-01-11T15:09:48.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p>寒假计划</p>
+<p>Sunday, December 8, 2019<br>
+11:49 PM</p>
+<p>千本樱等曲目 吉他前奏<br>
+千本樱或前前世世 卡林巴琴（选做）<br>
+黑苹果安装，工作用（可能的苹果全家桶计划，iPad Air2+黑苹果+iPhone SE）<br>
+或虚拟机安装<br>
+Anki学习使用<br>
+Anki每日48词打卡计划<br>
+C++课程预习<br>
+Python 计算机二级入门<br>
+Pr学习（选做）<br>
+托福课程学习<br>
+买移动硬盘（可能的二手酷比魔方i7手写板带笔购入）<br>
+《三体》<br>
+《北京折叠》<br>
+备考大学生英语竞赛（刷真题）<br>
+《大学英语》杂志供稿×1<br>
+《Beastar》漫画（选做）<br>
+整理酷安谷歌书签与歌单（分类）<br>
+了解各种竞赛<br>
+个人博客建立（不要求写很多博文，框架建成就ok）<br>
+酷安头条文章×1<br>
+补习班打工<br>
+史同学聚会<br>
+复习PS</p>
+<p>注明：（此项目1月考虑）（已完成）<br>
+1.预估：酷比魔方I7 价位 700（咸鱼最低价)<br>
+配置4+128G  带笔和键盘<br>
+定位：记笔记（主要目的），画画，所以，<br>
+以下内容均在寒假完成<br>
+自刷黑苹果<br>
+自改散热</p>
+<p>我的电子产品的定位</p>
+<ol>
+<li>机械革命X3————我的主力机，用于大型软件的使用，但不常携带<br>
+2.iPad Air2————我的备用学习机（当win板没电时记笔记），兼具ios生态的娱乐作用，（还可以装13），看网课论文pdf很方便（不带回）<br>
+3.win板————我的主力学习机，onenote加持，可用于绘画，PS，轻度编程，可以配合充电宝诱骗成为去图书馆等地的便携机），配合贴纸（神奈川冲浪里)还是很好看的</li>
+</ol>
+<p>可能的寒假日程表</p>
+<p>朝:  Anki48词打卡</p>
+<p>暮:TOELF课程学习</p>
+<pre><code>  可能的补课打工
+</code></pre>
+<p>夜：Python二级入门</p>
+<p>地点:阳台，咖啡厅，图书馆等等等等</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
         <id>https://lengerH.github.io/post/about</id>
